@@ -79,7 +79,9 @@ Courses | Duration | Effort | Notes | Prerequisites | Discussion
 `network protocols`
 `and more`
 
-[Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | 10-12 weeks | 6-10 hours/week |
+Courses | Duration | Effort | Notes | Prerequisites | Discussion
+:-- | :--: | :--: | :--: | :--: | :--:
+[Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | 10-12 weeks | 6-10 hours/week
 
 ### Core theory
 
